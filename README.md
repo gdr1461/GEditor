@@ -4,7 +4,7 @@
 		<img src="https://github.com/matter-ecs/matter/actions/workflows/ci.yaml/badge.svg" alt="Roblox Group">
 	</a>
  	 <a href="https://matter-ecs.github.io/matter/">
-		<img src="https://github.com/matter-ecs/matter/actions/workflows/docs.yaml/badge.svg" alt="Documentation">
+		<img src="https://github.com/gdr1461/GEditor/blob/main/badge.svg" alt="Documentation">
 	</a>
 </div>
 <br>
