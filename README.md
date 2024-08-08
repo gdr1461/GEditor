@@ -10,3 +10,8 @@
 <br>
 
 Easy-to-use Roblox tool for creating in-game script editor and then contolling that editor.
+
+# Installation
+1. Download [latest version](https://github.com/gdr1461/GEditor/releases).
+2. Drag `.rbxm` file into the studio or open it from file.
+3. See more at [wiki](https://github.com/gdr1461/GEditor/wiki). 
