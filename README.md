@@ -6,7 +6,7 @@
 </div>
 <br>
 
-Every beta feature will firstly be published here, and then in the main brench.
+Every beta feature will firstly be published here, and then will be rolled out to the main brench.
 
 # Installation
 1. Download [.rbxm](https://github.com/gdr1461/GEditor/blob/Beta-Features/GEditor.rbxm) file.
