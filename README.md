@@ -19,4 +19,4 @@ GEditor has its own [Example Place](https://github.com/gdr1461/GEditor/tree/Beta
 
 # Beta Features
 If you ever wanted to test out beta features, you can do that now! <br />
-[See more]()
+[See more](https://github.com/gdr1461/GEditor/tree/Beta-Features)
