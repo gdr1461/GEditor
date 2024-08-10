@@ -9,5 +9,5 @@
 Every beta feature will firstly be published here, and then in the main brench.
 
 # Installation
-1. Download [.rbxm]() file.
+1. Download [.rbxm](https://github.com/gdr1461/GEditor/blob/Beta-Features/GEditor.rbxm) file.
 3. See about beta features in [Beta-Features.md](https://github.com/gdr1461/GEditor/wiki). 
