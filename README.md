@@ -6,7 +6,7 @@
 </div>
 <br>
 
-Example of how to use GEditor to create in-game script editor.
-[Download example place]()
+Example of how to use GEditor to create in-game script editor. <br />
+[Download example place](https://github.com/gdr1461/GEditor/blob/ExamplePlace/GEditor_ExamplePlace.rbxl)
 
 https://github.com/user-attachments/assets/f5f27633-0dac-4f0b-a756-c236971d0761
