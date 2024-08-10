@@ -6,7 +6,8 @@
 </div>
 <br>
 
-Easy-to-use Roblox tool for creating in-game script editor and then contolling that editor.
+Easy-to-use Roblox tool for creating customizable in-game script editor interface. <br />
+Can be used only on client.
 
 # Installation
 1. Download [latest version](https://github.com/gdr1461/GEditor/releases).
