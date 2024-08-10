@@ -1,4 +1,4 @@
-# GEditor
+# GEditor Example Place
 <div align="left">
 	<a href="https://www.roblox.com/groups/33231285/The-Mountain-Games#!/about">
 		<img src="https://github.com/gdr1461/GEditor/blob/main/svgviewer-output.svg" alt="Roblox Group">
@@ -6,10 +6,7 @@
 </div>
 <br>
 
-Easy-to-use Roblox tool for creating customizable in-game script editor interface. <br />
-Can be used only on client.
+Example of how to use GEditor to create in-game script editor.
+[Download example place]()
 
-# Installation
-1. Download [latest version](https://github.com/gdr1461/GEditor/releases).
-2. Drag `.rbxm` file into the studio or open it from file.
-3. See more at [wiki](https://github.com/gdr1461/GEditor/wiki). 
+https://github.com/user-attachments/assets/f5f27633-0dac-4f0b-a756-c236971d0761
