@@ -1,5 +1,6 @@
-# List
-List of all the beta features that exists right now. <br />
+# Beta v0.4.0
+All of the content listed here is subject for change.
+<br /><br /><br /><br />
 
 # Editor Instance
 - ## Methods
